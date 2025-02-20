@@ -79,6 +79,7 @@ colorVaribleHolders.forEach((holder) => {
 	});
 });
 
+
 // ========================================
 
 // SWITCHING BETWEEN DARK AND LIGHT MODES
